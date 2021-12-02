@@ -33,8 +33,8 @@ var dayData = JSON.parse(window.localStorage.getItem(currentday));
 
 console.log(JSON.stringify(dayData));
 
-//var currenthour=parseInt(moment().format("H"))
-var currenthour =13
+var currenthour=parseInt(moment().format("H"))
+
 
 
 
