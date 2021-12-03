@@ -8,3 +8,4 @@ https://github.com/14Kappaman/WorkDayScheduler
 
 https://14kappaman.github.io/DailyWorkCalendar/
 
+![WorkDayScheduler](https://user-images.githubusercontent.com/92767605/144542111-828cd2c8-f02c-49cd-9393-8edafb3885be.png)
